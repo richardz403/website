@@ -14,7 +14,6 @@
 		"test:integration": "playwright test",
 		"test:unit": "vitest",
 		"gh-pages": "npm run build && npx gh-pages -d build"
-
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
